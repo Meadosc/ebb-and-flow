@@ -1,0 +1,5 @@
+.env
+venv
+fly.toml
+**/*.pyc
+**/__pycache__
